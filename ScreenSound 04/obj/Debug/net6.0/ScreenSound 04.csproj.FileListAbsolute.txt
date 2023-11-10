@@ -1,0 +1,14 @@
+C:\Users\Raphael lopes\source\repos\ScreenSound 04\ScreenSound 04\bin\Debug\net6.0\ScreenSound 04.exe
+C:\Users\Raphael lopes\source\repos\ScreenSound 04\ScreenSound 04\bin\Debug\net6.0\ScreenSound 04.deps.json
+C:\Users\Raphael lopes\source\repos\ScreenSound 04\ScreenSound 04\bin\Debug\net6.0\ScreenSound 04.runtimeconfig.json
+C:\Users\Raphael lopes\source\repos\ScreenSound 04\ScreenSound 04\bin\Debug\net6.0\ScreenSound 04.dll
+C:\Users\Raphael lopes\source\repos\ScreenSound 04\ScreenSound 04\bin\Debug\net6.0\ScreenSound 04.pdb
+C:\Users\Raphael lopes\source\repos\ScreenSound 04\ScreenSound 04\obj\Debug\net6.0\ScreenSound 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael lopes\source\repos\ScreenSound 04\ScreenSound 04\obj\Debug\net6.0\ScreenSound 04.AssemblyInfoInputs.cache
+C:\Users\Raphael lopes\source\repos\ScreenSound 04\ScreenSound 04\obj\Debug\net6.0\ScreenSound 04.AssemblyInfo.cs
+C:\Users\Raphael lopes\source\repos\ScreenSound 04\ScreenSound 04\obj\Debug\net6.0\ScreenSound 04.csproj.CoreCompileInputs.cache
+C:\Users\Raphael lopes\source\repos\ScreenSound 04\ScreenSound 04\obj\Debug\net6.0\ScreenSound 04.dll
+C:\Users\Raphael lopes\source\repos\ScreenSound 04\ScreenSound 04\obj\Debug\net6.0\refint\ScreenSound 04.dll
+C:\Users\Raphael lopes\source\repos\ScreenSound 04\ScreenSound 04\obj\Debug\net6.0\ScreenSound 04.pdb
+C:\Users\Raphael lopes\source\repos\ScreenSound 04\ScreenSound 04\obj\Debug\net6.0\ScreenSound 04.genruntimeconfig.cache
+C:\Users\Raphael lopes\source\repos\ScreenSound 04\ScreenSound 04\obj\Debug\net6.0\ref\ScreenSound 04.dll
