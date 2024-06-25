@@ -5,7 +5,7 @@ Projeto desenvolvido com C#.
 
 ## ℹ️ Sobre o projeto
 
-Este projeto consiste em mostrar um filtro de lista de musica recebidas por json.
+Este projeto consiste em mostrar um filtro de lista de música recebidas por JSON.
 
 ## 🎯 Objetivo do projeto
 
